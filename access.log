@@ -1,0 +1,4 @@
+::1 - - [19/Jun/2019:19:15:20 +0000] "GET /favicon.ico HTTP/1.1" 200 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+::1 - - [19/Jun/2019:19:37:10 +0000] "GET /favicon.ico HTTP/1.1" 200 - "https://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+::1 - - [19/Jun/2019:19:38:21 +0000] "GET /favicon.ico HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+::1 - - [19/Jun/2019:20:29:04 +0000] "GET /favicon.ico HTTP/1.1" 200 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"

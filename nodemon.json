@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "ping",
+        "MONGO_PASSWORD": "pink58972",
+        "MONGO_DEFAULT_DATABASE": "mongoose-shop",
+        "STRIPE_KEY": "sk_test_0Mn8ZxJq7ReMMyZJcpOAoHMi00MwrCWq8k"
+    }
+}
