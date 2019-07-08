@@ -1,6 +1,6 @@
 # Shop and Sell Web-Server Project
 
-<a href="https://node-deploy-shopping-server.herokuapp.com/"><img src="https://a.imge.to/2019/07/09/I0EAw.md.png" alt="shop1"></a>
+<a href="https://node-deploy-shopping-server.herokuapp.com/"><img src="https://a.imge.to/2019/07/09/I0EAw.md.png" alt="shop1"><img src="https://a.imge.to/2019/07/09/I0aWV.md.png" alt="shop2"></a>
 
 This project is the multiple pages render web server, All page on back-end by using EJS templating with Expressjs and using cloud database MongoDB Atlas. The website features include: creating own product for selling or looking buy some products in the website. The website can process with authentication, validation, up&download files, etc.
 
