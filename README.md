@@ -1,8 +1,3 @@
-# nodejs-shopping-server
-# shopping-server-mysql
-# shopping-server-expressjs-mongodb
-# shopping-server-mongoose
-# shopping-server-mongoose-cookies-sessions
-# shopping-server-authentication
-# shopping-server-validation
-# shopping-server-up-download-files
+# shopping-server:
+
+This is web server back-end project that Implemented by nodejs-mysql-expressjs-mongodb-mongoose -cookies-sessions-authentication-validation-up-download-files
